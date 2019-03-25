@@ -131,7 +131,7 @@ Fork this repo and use the last chapter for "objective of the day" tasks as trai
 |[objective of the day: Use Azure Data Box for data import into Azure]().|
 |[objective of the day: Configure and use Azure blob storage]().|
 |[objective of the day: Configure Azure Content Delivery Network (CDN) endpoints]().|
-|[objective of the day: Create an Azure file share]().|
+|[objective of the day: Create an Azure file share](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share).|
 |[objective of the day: Create an Azure File Sync service instance]().|
 |[objective of the day: Create an Azure File Sync sync group]().|
 |[objective of the day: Troubleshoot Azure File Sync](https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-troubleshoot?tabs=portal1%2Cazure-portal&WT.mc_id=email).|
