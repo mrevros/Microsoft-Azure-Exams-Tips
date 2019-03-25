@@ -137,7 +137,7 @@ Fork this repo and use the last chapter for "objective of the day" tasks as trai
 |[objective of the day: Troubleshoot Azure File Sync](https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-troubleshoot?tabs=portal1%2Cazure-portal&WT.mc_id=email).|
 |[objective of the day: Configure and review Azure VM backup reports]().|
 |[objective of the day: Perform an Azure VM backup operation]().|
-|[objective of the day: Create a Recovery Services vault]().|
+|[objective of the day: Create a Recovery Services vault](https://docs.microsoft.com/en-us/azure/backup/backup-configure-vault).|
 |[objective of the day: Create and configure a backup policy]().|
 |[objective of the day: Perform an Azure VM and/or disk restore operation]().|
 |[objective of the day: Configure high availability for Azure VMs]().|
