@@ -143,7 +143,7 @@ Fork this repo and use the last chapter for "objective of the day" tasks as trai
 |[objective of the day: Configure high availability for Azure VMs]().|
 |[objective of the day: Configure monitoring, networking, storage, and VM size]().|
 |[objective of the day: Deploy and configure Azure VM scale sets]().|
-|[objective of the day: Modify an Azure Resource Manager (ARM) template]().|
+|[objective of the day: Modify an Azure Resource Manager (ARM) template](https://docs.microsoft.com/en-us/azure/architecture/building-blocks/extending-templates/update-resource).|
 |[objective of the day: Configure and enforce the location of new VMs in Azure]().|
 |[objective of the day: Configure a virtual hard disk (VHD) template for VMs in Azure]().|
 |[objective of the day: Deploy a new Azure VM from a template]().|
