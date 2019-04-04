@@ -154,19 +154,19 @@ Fork this repo and use the last chapter for "objective of the day" tasks as trai
 |[objective of the day: Automate configuration management by using PowerShell DSC and VM agent by using custom script extension]()s|
 |[objective of the day: Manage VM sizes in the Azure Portal or with Azure PowerShell]().|
 |[objective of the day: Move Azure VMs from one resource group to another]().|
-|[objective of the day: Redeploy Windows Server or Linux VMs in the Azure portal]().|
+|[objective of the day: Redeploy Windows Server or Linux VMs in the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-machines/troubleshooting/redeploy-to-new-node-linux).|
 |[objective of the day: Configure backup for Windows Server and Linux VMs in Azure]().|
 |[objective of the day: Define backup policies for Windows Server and Linux VMs in Azure]().|
 |[objective of the day: Implement backup policies for Windows Server and Linux VMs in Azure]().|
 |[objective of the day: Perform full VM restore in the Azure portal]().|
-|[objective of the day: Create and configure Azure virtual network (VNet) peering]().|
+|[objective of the day: Create and configure Azure virtual network (VNet) peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-peering).|
 |[objective of the day: Verify virtual network connectivity with Azure Network Watcher]().|
 |[objective of the day: Create a virtual network gateway in the Azure portal]().|
 |[objective of the day: Configure private and public IP addresses for Azure VMs]().|
 |[objective of the day: Configure network routes on Azure virtual network (VNet) subnets]().|
 |[objective of the day: Configure network interfaces on Azure virtual machines (VMs)]().|
 |[objective of the day: Configure subnets and virtual networks in the Azure Portal and with Azure PowerShell]().|
-|[objective of the day: Configure Azure DNS in the Azure portal and with Azure PowerShell]().|
+|[objective of the day: Configure Azure DNS in the Azure portal and with Azure PowerShell](https://docs.microsoft.com/en-us/azure/dns/dns-getstarted-portal).|
 |[objective of the day: Configure custom DNS settings for an Azure virtual network (VNet) subnet]().|
 |[objective of the day: Configure private and public Azure DNS zones]().|
 |[objective of the day: Create network security group (NSG) security rules]().|
