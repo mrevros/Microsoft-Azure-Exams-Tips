@@ -161,7 +161,7 @@ Fork this repo and use the last chapter for "objective of the day" tasks as trai
 |[objective of the day: Perform full VM restore in the Azure portal]().|
 |[objective of the day: Create and configure Azure virtual network (VNet) peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-peering).|
 |[objective of the day: Verify virtual network connectivity with Azure Network Watcher]().|
-|[objective of the day: Create a virtual network gateway in the Azure portal]().|
+|[objective of the day: Create a virtual network gateway in the Azure portal](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal#LocalNetworkGateway).|
 |[objective of the day: Configure private and public IP addresses for Azure VMs]().|
 |[objective of the day: Configure network routes on Azure virtual network (VNet) subnets]().|
 |[objective of the day: Configure network interfaces on Azure virtual machines (VMs)]().|
