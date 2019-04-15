@@ -164,8 +164,8 @@ Fork this repo and use the last chapter for "objective of the day" tasks as trai
 |[objective of the day: Create a virtual network gateway in the Azure portal](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal#LocalNetworkGateway).|
 |[objective of the day: Configure private and public IP addresses for Azure VMs]().|
 |[objective of the day: Configure network routes on Azure virtual network (VNet) subnets]().|
-|[objective of the day: Configure network interfaces on Azure virtual machines (VMs)]().|
-|[objective of the day: Configure subnets and virtual networks in the Azure Portal and with Azure PowerShell]().|
+|[objective of the day: Configure network interfaces on Azure virtual machines (VMs)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface-vm).|
+|[objective of the day: Configure subnets and virtual networks in the Azure Portal and with Azure PowerShell](https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-powershell).|
 |[objective of the day: Configure Azure DNS in the Azure portal and with Azure PowerShell](https://docs.microsoft.com/en-us/azure/dns/dns-getstarted-portal).|
 |[objective of the day: Configure custom DNS settings for an Azure virtual network (VNet) subnet](https://docs.microsoft.com/en-us/azure/virtual-network/manage-virtual-network#change-dns-servers).|
 |[objective of the day: Configure private and public Azure DNS zones](https://docs.microsoft.com/en-us/azure/dns/private-dns-getstarted-powershell).|
