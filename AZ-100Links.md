@@ -167,9 +167,9 @@ Fork this repo and use the last chapter for "objective of the day" tasks as trai
 |[objective of the day: Configure network interfaces on Azure virtual machines (VMs)]().|
 |[objective of the day: Configure subnets and virtual networks in the Azure Portal and with Azure PowerShell]().|
 |[objective of the day: Configure Azure DNS in the Azure portal and with Azure PowerShell](https://docs.microsoft.com/en-us/azure/dns/dns-getstarted-portal).|
-|[objective of the day: Configure custom DNS settings for an Azure virtual network (VNet) subnet]().|
-|[objective of the day: Configure private and public Azure DNS zones]().|
-|[objective of the day: Create network security group (NSG) security rules]().|
-|[objective of the day: Associate a network security group (NSG) to a subnet or network interface in Azure]().|
+|[objective of the day: Configure custom DNS settings for an Azure virtual network (VNet) subnet](https://docs.microsoft.com/en-us/azure/virtual-network/manage-virtual-network#change-dns-servers).|
+|[objective of the day: Configure private and public Azure DNS zones](https://docs.microsoft.com/en-us/azure/dns/private-dns-getstarted-powershell).|
+|[objective of the day: Create network security group (NSG) security rules](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic).|
+|[objective of the day: Associate a network security group (NSG) to a subnet or network interface in Azure](https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group#create-a-security-rule).|
 |[objective of the day: Identify required ports for inter-VM communications in Azure]().|
-|[objective of the day: Evaluate effective security rules for VMs with Azure Network Watcher.]()|
+|[objective of the day: Evaluate effective security rules for VMs with Azure Network Watcher.](https://docs.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-traffic-filtering-problem)|
